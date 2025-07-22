@@ -1,5 +1,6 @@
 # # # # # # # # # # # # # # # # # #
 # FUNCTION: GET REMOTE SENSING IMAGES FROM A LARGE DATABASE via A GIVEN LOCATION (latitude & longitude)
+# METHOD: 根据给定的坐标（经纬度），从遥感影像文件夹中的pan.xml读取四角点坐标，使用射线法判断给定坐标是否在影像内，输出所有包含给定坐标位置的影像信息
 # VERSION : 2.0
 # DATE    : 2023.06.01
 # MAINTAINER: lichuang52001@gmail.com
